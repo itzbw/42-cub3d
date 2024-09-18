@@ -4,7 +4,7 @@ A project inspired by the iconic 90s game, known as the first-ever FPS (First-Pe
 
 ## Game Requirement
 
-• This project must be created in group of 2 people (groupmate: [ctchen42] (https://github.com/ctchen42)). \
+• This project must be created in group of 2 people - groupmate: [ctchen42] (https://github.com/ctchen42) . \
 • The management of your window must remain smooth: changing to another win-
 dow, minimizing, etc.\
 • Display different wall textures (the choice is yours) that vary depending on which
